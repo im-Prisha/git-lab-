@@ -54,3 +54,20 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+10. Prisha Tembhurne
+
+im-Prisha
+
+pt408224@ohio.edu
+i am recording this in the LAB 107
+// it did not get updated as reflected above
+11.  ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/im-Prisha/git-lab-.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+//
+ it shows a error, because the remote contains work that i do not have locally
+ 12. 
