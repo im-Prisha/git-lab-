@@ -70,4 +70,14 @@ hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 //
  it shows a error, because the remote contains work that i do not have locally
- 12. 
+ 12. Prisha Tembhurne
+
+im-Prisha
+
+pt408224@ohio.edu
+i am recording this in the LAB 107
+
+Class info: CS2400 Makeuplab, Section 107
+//changes were made. <3
+
+13. .  ..  .git  .gitignore  README.md  a.out  git-lab-program.cc
